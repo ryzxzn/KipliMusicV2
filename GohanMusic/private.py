@@ -184,7 +184,7 @@ async def donate(_, query: CallbackQuery):
 
 • Jika berminat berdonasi anda bisa kirim donasi ke pulsa atau ke saldo dana seikhlasnya
 
-• nomer: 089525658633 terimakasih donasimu begitu berarti bagi saya</b>
+• nomer: 0881025753684 terimakasih donasimu begitu berarti bagi saya</b>
 """,
         reply_markup=InlineKeyboardMarkup(
             [
