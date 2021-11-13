@@ -8,10 +8,10 @@ bot = Bot(
     API_ID,
     API_HASH,
     bot_token=BOT_TOKEN,
-    plugins=dict(root="GohanMusic"),
+    plugins=dict(root="KipliMusicV2"),
 )
 
-print("GOHAN MUSIC STARTED!")
+print("KIPLI MUSIC V2 STARTED!")
 
 bot.start()
 run()
